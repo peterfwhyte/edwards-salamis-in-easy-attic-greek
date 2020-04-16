@@ -1,20 +1,21 @@
-# {{ NAME OF TEXT }}
+# Edwards Salamis In Easy Attic Greek
 
-{{ describe what is being done, the process being followed, and who is involved in the work }}
+A repository for a digitisation effort of _Edwards — Salamis in simple Attic Greek_. A HTML version is provided [here](https://sleeptillseven.github.io/edwards-salamis-in-easy-attic-greek/).
 
 This text is being prepared as part of the [Greek Learner Texts Project](https://greek-learner-texts.org/).
 
 ## Contributors
 
-* {{ list of people who have contributed to this repo }}
+* Christoph Jasinski
 
 ## Source
 
-{{ indicate original source(s) of text: scans or existing transcriptions }}
+* https://archive.org/details/salamisineasyatt00edwa
 
 ## Progress
 
-{{ indicate progress, or remove entire section if done }}
+* OCR 100% done
+* correcting 0% done
 
 ## License
 
