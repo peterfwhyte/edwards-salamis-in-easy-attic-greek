@@ -1,0 +1,6 @@
+0.0 PREFACE
+text.1 THIS adaptation of part of Herodotus, much shortened and simplified, is intended for students in their second year of Greek reading. The re-written text is mainly Attic; but a few Ionic touches have been retained for their literary value. The subject-matter is of great and varied interest; and there is abundance of useful idiom. The excellent editions of Dr Shuckburgh and Messrs How and Wells and Dean Blakesley’s admirable Excursus on the battle of Salamis have been found very useful.
+text.2 —
+text.3 G. M. E.
+text.2 CAMBRIDGE
+text.3 June 1913
