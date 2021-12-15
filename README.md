@@ -7,6 +7,7 @@ This text is being prepared as part of the [Greek Learner Texts Project](https:/
 ## Contributors
 
 * Christoph Jasinski
+* Peter F. Whyte
 
 ## Source
 
